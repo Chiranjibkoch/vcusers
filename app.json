@@ -7,7 +7,7 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/piroXpower/VCUserBot",
+    "repository": "https://github.com/Chiranjibkoch/vcusers",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
